@@ -1,0 +1,35 @@
+h1{
+  color: #CF0A0A;
+}
+
+h2{
+  color:red;
+  font-style: italic;
+}
+
+.text1{
+  text-decoration: line-through;
+  font-weight: bold;
+}
+.text2{
+  background-color: yellow;
+  font-weight: bold;
+}
+.text3{
+  text-decoration: underline;
+  font-style: italic;
+}
+.text4{
+  color: brown;
+  letter-spacing: 3px;
+}
+p{
+  color: brown;
+}
+.link{
+  color: brown;
+  background-color: yellow;
+  text-decoration: none;
+  font-style: italic;
+  font-weight: bold;
+}
